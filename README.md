@@ -121,8 +121,8 @@ These insights are intended as a starting point for further exploration rather t
 1. **Clone this repository**
 
    ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
-   cd <your-repo-name>
+   git clone https://github.com/ahmedkansulum/NHS_DigData_Analysis.git
+   cd NHS_DigData_Analysis
    ```
 
 2. **(Optional) Create and activate a virtual environment**
