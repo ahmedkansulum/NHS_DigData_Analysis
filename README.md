@@ -103,16 +103,16 @@ These insights are intended as a starting point for further exploration rather t
 ## Key visualisations
 
 ### National monthly antidepressant prescribing cost
-![National monthly prescribing cost](C:/Projects/NHS_DigData_Analysis/images/national_monthly_cost.png)
+![National monthly prescribing cost](/images/national_monthly_cost.png)
 
 ### Annual_summary_national_monthly_prescribing_cost
-![Annual_summary_national_monthly_prescribing_cost](C:/Projects/NHS_DigData_Analysis/images/annual_summary_national_monthly_prescribing_cost.png)
+![Annual_summary_national_monthly_prescribing_cost](/images/annual_summary_national_monthly_prescribing_cost.png)
 
 ### Regional_antidepressant_prescribing_cost
-![regional_antidepressant_prescribing_cost](C:/Projects/NHS_DigData_Analysis/images/regional_antidepressant_prescribing_cost.png)
+![regional_antidepressant_prescribing_cost](/images/regional_antidepressant_prescribing_cost.png)
 
 ### Total_national_prescribing_cost_over_time
-![total_national_prescribing_cost_over_time](C:/Projects/NHS_DigData_Analysis/images/total_national_prescribing_cost_over_time.png)
+![total_national_prescribing_cost_over_time](/images/total_national_prescribing_cost_over_time.png)
 
 ---
 
