@@ -93,45 +93,31 @@ The notebook then moves into higher-level metrics and insight generation:
 
 ## Key visualisations
 
-> 💡 Save your plots from the notebook into an `images/` folder with the filenames shown below so they render automatically on GitHub.
+### Total_national_prescribing_cost_over_time
 
-### National monthly antidepressant prescribing cost
 
-```python
-plt.savefig("images/national_monthly_cost.png", dpi=300)
-```
-
-![National monthly prescribing cost](images/national_monthly_cost.png)
+![Total_national_prescribing_cost_over_time](images/total_national_prescribing_cost_over_time.png)
 
 ---
 
 ### Monthly escitalopram prescribing cost
 
-```python
-plt.savefig("images/escitalopram_monthly_cost.png", dpi=300)
-```
 
 ![Escitalopram monthly cost](images/escitalopram_monthly_cost.png)
 
 ---
 
-### Top 5 most prescribed antidepressants in 2024
+### Regional_antidepressant_prescribing_cost
 
-```python
-plt.savefig("images/top5_antidepressants_2024.png", dpi=300)
-```
 
-![Top 5 antidepressants 2024](images/top5_antidepressants_2024.png)
+![Regional_antidepressant_prescribing_cost](images/regional_antidepressant_prescribing_cost.png)
 
 ---
 
 ### Distribution of monthly national cost by year (boxplot)
 
-```python
-plt.savefig("images/monthly_cost_boxplot_by_year.png", dpi=300)
-```
 
-![Monthly cost distribution by year](images/monthly_cost_boxplot_by_year.png)
+![Monthly cost distribution by year](images/annual_summary_national_monthly_prescribing_cost.png)
 
 ---
 
@@ -153,8 +139,8 @@ These insights are intended as a starting point for further exploration rather t
 1. **Clone this repository**
 
    ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
-   cd <your-repo-name>
+   git clone https://github.com/ahmedkansulum/NHS_DigData_Analysis.git
+   cd NHS_DigData_Analysis
    ```
 
 2. **(Optional) Create and activate a virtual environment**
